@@ -1,2 +1,3 @@
 this is an example of version control
-ADDED SOME SAMPLE TEXT...
+SOME SAMPLE TEXT... (This line was edited)
+hi from new branch 
